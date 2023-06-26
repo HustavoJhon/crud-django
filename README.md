@@ -1,5 +1,7 @@
 # Crud Django
 
+[![Python](https://img.shields.io/badge/3.11.2-black?style=flat&logo=python)](https://github.com/hustavoJhon/basic/PYTHON)
+
 # virtual environments
 
 ```python
